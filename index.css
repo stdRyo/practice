@@ -6,22 +6,26 @@ body {
   font-family: serif;
 }  
 h1 {
+  color: white;
   text-align: center;
-  text-size: 30px;
+  text-size: 25px;
 }  
 .frame {
+  display: block;
+  text-align: center;
   background-image: url("https://img.poipiku.com/user_img03/003505532/007919508_015839807_OkWvIcca0.jpeg_640.jpg");
   backgroung-size: cover;
   background-repeat: no-repeat;
   margin: 40px;
 }  
 .name {
+  display: inline-block;
   text-align: right;
-  text-size: 25px;
+  text-size: 30px;
   padding: 20px;
 }  
 .img {
-  text-align: center;
+  display: inline-block;
   width: 20%;
   height: 20%;
   padding: 20px;
@@ -31,7 +35,5 @@ a {
   text-decoration: none;
 }  
 p {
-  text-align: center;
-  text-size= 20px;
   padding: 20px;
 }  
