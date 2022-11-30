@@ -19,7 +19,7 @@ h1 {
   margin: 40px;
 }  
 .name {
-  display: inline-block;
+  color: black;
   text-align: right;
   text-size: 30px;
   padding: 20px;
