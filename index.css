@@ -28,7 +28,9 @@ h1 {
   display: inline-block;
   width: 20%;
   height: 20%;
-  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
 } 
 a {
   color: inherit;
