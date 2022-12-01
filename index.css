@@ -12,7 +12,7 @@ html {
         display: block;
         text-align: center;
         background-image: url("https://img.poipiku.com/user_img03/003505532/007919536_015852095_jpDTXptek.jpeg_640.jpg");
-        background-size: cover;
+        backgroung-repeat: repeat;
         margin: 100px;
 
     }
