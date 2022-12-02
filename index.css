@@ -8,13 +8,17 @@ html {
         font-family: serif;
     }
 
-    div.frame {
-        display: inline-block;
-        text-align: center;
+    .frameimg {
+        width: 200%;
+        height: 100%;
         background-image: url("https://img.poipiku.com/user_img03/003505532/007919536_015852095_jpDTXptek.jpeg_640.jpg");
         background-size: cover;
         padding: 50px;
+    }
 
+    .frametext {
+        display: inline-block;
+        text-align: center;   
     }
 
     .img {
