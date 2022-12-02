@@ -10,19 +10,18 @@ h1 {
   text-align: center;
   text-size: 25px;
 }  
-.frame {
-  display: block;
-  text-align: center;
-  background-image: url("https://img.poipiku.com/user_img03/003505532/007919508_015839807_OkWvIcca0.jpeg_640.jpg");
-  backgroung-size: cover;
-  background-repeat: no-repeat;
-  margin: 40px;
-}  
-.name {
+.frameimg{
   display: inline-block;
-  text-align: right;
+  midth: 200%;
+  height: 100%;
+  background-image: url("https://img.poipiku.com/user_img03/003505532/007919508_015839807_OkWvIcca0.jpeg_640.jpg");
+  background-repeat: no-repeat;
+  padding: 50px;
+}
+.frametext {
   text-size: 30px;
-  padding: 20px;
+  display: inline-block;
+  text-align: center;
 }  
 .img {
   display: inline-block;
