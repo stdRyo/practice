@@ -10,7 +10,6 @@ html {
 
     div.frame {
         display: inline-block;
-        background-color: white;
         text-align: center;
         background-image: url("https://img.poipiku.com/user_img03/003505532/007919536_015852095_jpDTXptek.jpeg_640.jpg");
         background-size: cover;
@@ -20,8 +19,8 @@ html {
 
     .img {
         display: inline-block;
-        padding-left: 50px;
-        padding-right: 50px;
+        padding-left: 120px;
+        padding-right:120px;
         padding-top: 50px;
         width: 20%;
         height: 20%;
