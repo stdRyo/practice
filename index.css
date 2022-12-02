@@ -10,7 +10,7 @@ body {
 h1 {
   color: white;
   text-align: center;
-  text-size: 25px;
+  font-size: 25px;
 }  
 .frameimg{
   display: inline-block;
@@ -20,7 +20,7 @@ h1 {
   padding: 50px;
 }
 .frametext {
-  text-size: 30px;
+  font-size: 30px;
   display: inline-block;
  
 }  
